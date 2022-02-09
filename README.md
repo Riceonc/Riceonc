@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 :mega: 来个介绍
 =================
 - 📧 MzI2MjEzNjgwQHFxLmNvbQ==
-- 🔭
+- 🔭 一个永远在路上的菜鸟程序员，对技术的探索永远在git clone。
 
