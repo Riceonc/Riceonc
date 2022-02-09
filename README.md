@@ -1,6 +1,6 @@
 ### 看这里 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riceonc)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riceonc)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- **Riceonc/Riceonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-:fork_and_knife:
+:mega: 来个介绍
 =================
+- 📧 MzI2MjEzNjgwQHFxLmNvbQ==
+- 🔭
+
