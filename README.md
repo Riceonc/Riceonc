@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 =================
 - 📧 MzI2MjEzNjgwQHFxLmNvbQ==
 - 🔭 一个永远在路上的菜鸟程序员，对技术的探索永远在git clone / push。
+- 💬 我的梦想就是写出一套优美的API
 
 :octocat: 技术栈
 ----------------
-主要用![python](https://img.shields.io/badge/python-blue.svg "python")
-厌倦了![django](https://img.shields.io/badge/django-green.svg "django")的肥胖也玩玩![flask](https://img.shields.io/badge/flask-red.svg "flask")
-最近在学习![vue](https://img.shields.io/badge/vue-yellowgreen.svg "vue")
+`主要用`![python](https://img.shields.io/badge/python-blue.svg "python")
+`偶尔厌倦了`![django](https://img.shields.io/badge/django-green.svg "django")`的肥胖也玩玩`![flask](https://img.shields.io/badge/flask-red.svg "flask")
+`最近在学习`![vue](https://img.shields.io/badge/vue-yellowgreen.svg "vue")
 
 
 
