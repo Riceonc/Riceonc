@@ -1,6 +1,11 @@
 ### 看这里 👋
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riceonc)](https://github.com/anuraghazra/github-readme-stats) -->
+[![hexo-theme-yilia-plus](https://img.shields.io/badge/hexo_theme-yilia_plus-red.svg "hexo-theme-yilia-plus")](https://github.com/JoeyBling/hexo-theme-yilia-plus "hexo-theme-yilia-plus")
+[![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
+[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
+![hexo](https://img.shields.io/badge/hexo-blue.svg "hexo")
+[![Build Status](https://travis-ci.com/JoeyBling/yilia-plus-demo.svg?branch=master)](https://travis-ci.com/JoeyBling/yilia-plus-demo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riceonc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- **Riceonc/Riceonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,5 +21,8 @@ Here are some ideas to get you started:
 :mega: 来个介绍
 =================
 - 📧 MzI2MjEzNjgwQHFxLmNvbQ==
-- 🔭 一个永远在路上的菜鸟程序员，对技术的探索永远在git clone。
+- 🔭 一个永远在路上的菜鸟程序员，对技术的探索永远在git clone / push。
+
+
+
 
