@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 :octocat: 技术栈
 ----------------
 主要用![python](https://img.shields.io/badge/python-blue.svg "python")
-厌倦了![django](https://img.shields.io/badge/django-green.svg "django")肥胖也玩玩![flask](https://img.shields.io/badge/flask-red.svg "flask")
+厌倦了![django](https://img.shields.io/badge/django-green.svg "django")的肥胖也玩玩![flask](https://img.shields.io/badge/flask-red.svg "flask")
+最近在学习![vue](https://img.shields.io/badge/vue-yellowgreen.svg "vue")
 
 
 
